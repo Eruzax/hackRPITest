@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+ul, li{
+    font-family:'Courier New', Courier, monospace;
+}
+
+a{
+    text-decoration: none;
+}
+
+.list{
+    padding: 5px;
+    background-color: purple;
+    border-radius: 20px;
+    color: pink;
+    font-style:italic;
+}
+
+#otherh1{
+    color: rgb(200, 100, 50);
+}
